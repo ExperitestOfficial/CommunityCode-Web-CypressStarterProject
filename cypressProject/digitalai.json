@@ -1,0 +1,15 @@
+{
+  "browsers": [{
+      "browser": "chrome",
+      "imageVersion": "10.0.0"
+    },
+    {
+      "browser": "firefox",
+      "imageVersion": "10.0.0"
+    },
+    {
+      "browser": "electron",
+      "imageVersion": "10.0.0"
+    }
+  ]
+}
