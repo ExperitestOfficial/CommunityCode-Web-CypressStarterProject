@@ -34,7 +34,7 @@ To run the test in this project, chose one of the following options:
 
 ### Using API: 
 Compress the entire [cypressProject](cypressProject) folder content.\
-Run POST API request by following the [documentation](https://docs.experitest.com/display/TET/Cypress#Cypress-StartaCypressexecution).
+Run POST API request by following the [documentation](https://docs.experitest.com/display/TE/Cypress#Cypress-StartaCypressexecution).
 
 ## Test Configuration
 To update the test's browsers and cypress versions edit the following file [digitalai.json](cypressProject/digitalai.json).
@@ -42,8 +42,8 @@ To update the test's browsers and cypress versions edit the following file [digi
 
 ## Documentation
 To find out more about running tests on Cypress, visit our online 
-[Cypress_using_API](https://docs.experitest.com/display/TET/Cypress#Cypress-StartaCypressexecution) and
-[Cypress_using_Dai-CT_CLI](https://docs.experitest.com/pages/viewpage.action?spaceKey=TET&title=Dai-CT+Execution+CLI).
+[Cypress_using_API](https://docs.experitest.com/display/TE/Cypress#Cypress-StartaCypressexecution) and
+[Cypress_using_Dai-CT_CLI](https://docs.experitest.com/pages/viewpage.action?spaceKey=TE&title=Dai-CT+Execution+CLI).
 
 ## Support
 If you encounter an issue that is not covered here or in our online documentation, contact us at [support@digital.ai](mailto:support@digital.ai).
