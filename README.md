@@ -29,7 +29,7 @@ To run the test in this project, chose one of the following options:
    Run the following command:
  ``` 
     cd <path to the project folder>
-    dai-ct cypress run -p <path to the project folder> --conf digitalai.json
+    dai-ct cypress run -p <absolute path of the project folder> --conf digitalai.json
    ```
 
 ### Using API: 
