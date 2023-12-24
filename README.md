@@ -1,5 +1,5 @@
 # CommunityCode Web: Cypress Starter Project
-Cypress is a front-end testing tool for web applications using modern JavaScript frameworks.\
+Cypress is a front-end testing tool for web applications using modern JavaScript frameworks.
 The Cypress Starter project enables you to quickly run tests in cypress.
 
 ## Setting Up the Project
@@ -42,7 +42,7 @@ To update the test's browsers and cypress versions edit the following file [digi
 
 ## Documentation
 To find out more about running tests on Cypress, see
-[Cypress_using_API](hhttps://docs.digital.ai/bundle/TE/page/cypress.html) and
+[Cypress_using_API](https://docs.digital.ai/bundle/TE/page/cypress.html) and
 [Cypress_using_Dai-CT_CLI](https://docs.digital.ai/bundle/TE/page/dai-ct_execution_command_line_interface.html).
 
 ## Support
